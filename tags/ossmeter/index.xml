@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ossmeter on Nicholas Matragkas</title>
+    <link>nmatra.github.io/tags/ossmeter/</link>
+    <description>Recent content in Ossmeter on Nicholas Matragkas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Nicholas Matragkas</copyright>
+    <lastBuildDate>Wed, 27 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="nmatra.github.io/tags/ossmeter/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>OSSMETER</title>
+      <link>nmatra.github.io/project/ossmeter/</link>
+      <pubDate>Wed, 27 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>nmatra.github.io/project/ossmeter/</guid>
+      <description>&lt;p&gt;The aim of the OSSMETER project was to extend the state-of-the-art in the field of automated analysis and measurement of open-source software (OSS), and to develop a platform that will support decision makers in the process of discovering, comparing, assessing and monitoring the health, quality, impact and activity of open-source software. To this end, software tools were developed which supported the computation of trustworthy quality indicators by performing advanced analysis and integration of information from diverse sources including the project metadata, source code repositories, communication channels and bug tracking systems of OSS projects.&lt;/p&gt;
+
+&lt;p&gt;OSSMETER was not another OSS forge but instead it provided a meta-platform for analysing existing OSS projects that are developed in existing OSS forges and foundations such as SourceForge, Google Code, GitHub, Eclipse, Mozilla and Apache.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

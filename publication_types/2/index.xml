@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on Nicholas Matragkas</title>
+    <link>nmatra.github.io/publication_types/2/</link>
+    <description>Recent content in 2 on Nicholas Matragkas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Nicholas Matragkas</copyright>
+    <lastBuildDate>Fri, 01 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="nmatra.github.io/publication_types/2/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Constraint programming for type inference in flexible Model-Driven Engineering</title>
+      <link>nmatra.github.io/publication/sosym2017/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>nmatra.github.io/publication/sosym2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolving models in Model-Driven Engineering: State-of-the-art and future challenges</title>
+      <link>nmatra.github.io/publication/comlan2017/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>nmatra.github.io/publication/comlan2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
