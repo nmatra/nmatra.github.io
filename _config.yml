@@ -26,8 +26,9 @@ navbar-links:
   Publications: "research"
   Projects: "projects"
   #Teaching: "teaching"
-  Prospective Phd Applicants: "phd"
   Contact: "contact"
+  Prospective Phd Applicants: "phd"
+ 
   
 
 # Image to show in the navigation bar - image must be a square (width = height)
