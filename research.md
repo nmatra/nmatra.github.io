@@ -4,23 +4,36 @@ title: Publications
 use-site-title: true
 ---
 
-Below is a list of the publications I've (co-)authored over the past few years. My **Google Scholar** page can be found **[here](https://scholar.google.ca/citations?user=Dvp7fNoAAAAJ&hl=en&oi=ao)**. 
+Below is a list of the publications I've (co-)authored over the past few years. My **Google Scholar** page can be found **[here](https://scholar.google.ca/citations?user=Dvp7fNoAAAAJ&hl=en&oi=ao)**.
 
 In 2010 my surname changed from _Drivalos_ to _Matragkas_. In the following list both names are used.
-	
+
+## 2020 ##
+* Dziurzanski, P., Gerasimou, S., Kolovos, D. and Matragkas, N., 2020. **Empirical Analysis of 1-edit Degree Patches in Syntax-Based Automatic Program Repair.** In 2020 IEEE Congress on Evolutionary Computation (CEC), IEEE.
+* Wood, S., Matragkas, N., Kolovos, D., Paige, R. and Gerasimou, S., 2020. **Supporting robotic software migration using static analysis and model-driven engineering.** In Proceedings of the 23rd ACM/IEEE International Conference on Model Driven Engineering Languages and Systems ,pp. 154-164.
+* Kourouklidis, P., Kolovos, D., Matragkas, N. and Noppen, J., 2020. **Towards a low-code solution for monitoring machine learning model performance.** In Proceedings of the 23rd ACM/IEEE International Conference on Model Driven Engineering Languages and Systems: Companion Proceedings, pp. 1-8.
+* Barmpis, K., Neubauer, P., Co, J., Kolovos, D., Matragkas, N. and Paige, R.F., 2020, June. **Polyglot and Distributed Software Repository Mining with Crossflow.** In Proceedings of the 17th International Conference on Mining Software Repositories, pp. 374-384.
+
+
+## 2019 ##
+
+* Gerasimou, S., Matragkas, N. and Calinescu, R., 2019, May. **Towards systematic engineering of collaborative heterogeneous robotic systems.** In 2019 IEEE/ACM 2nd International Workshop on Robotics Software Engineering (RoSE), pp. 25-28.
+* Kolovos, D., Neubauer, P., Barmpis, K., Matragkas, N. and Paige, R., 2019, May. **Crossflow: a framework for distributed mining of software repositories.** In 2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR), pp. 155-159.
+
+
 ## 2018 ##
 
 * Despotou, G., Korkontzelos, Y., Matragkas, N., Bilici, E. and Arvanitis, T.N., 2018. **Structuring Clinical Decision Support rules for drug safety using Natural Language Processing.** 16th International Conference on Informatics, Management, and Technology in Healthcare (ICIMTH 2018), Athens, Greece, 251, pp. 89-92
- 
+
 * Zolotas, A., Matragkas, N., Devlin, S., Kolovos, D.S. and Paige, R.F., 2018. **Type inference in flexible model-driven engineering using classification algorithms.** Software & Systems Modeling, pp.1-22.
-  
+
 
 ## 2017 ##
 
 * Retouniotis, A., Papadopoulos, Y., Sorokos, I., Parker, D., Matragkas, N. and Sharvia, S., 2017, September. **Model-Connected Safety Cases.** In International Symposium on Model-Based Safety and Assessment (pp. 50-63). Springer, Cham.
-  
+
 * Zolotas, A., Clarisó, R., Matragkas, N., Kolovos, D.S. and Paige, R.F., 2017. **Constraint programming for type inference in flexible model-driven engineering.** Computer Languages, Systems & Structures, 49, pp.216-230.
- 
+
 
 ## 2016 ##
 
@@ -83,7 +96,7 @@ In 2010 my surname changed from _Drivalos_ to _Matragkas_. In the following list
 * Paige, R.F., Calinescu, R., Kolovos, D.S., Matragkas, N. and Cliff, D., **Multimodel-Driven Software Engineering for Evolving Enterprise Systems (Position Paper).** In Joint Proceedings of the Workshops On the Globalization of Modeling Languages (GEMOC 2013) and Towards the Model Driven Organization.
 
 * Paige, R.F., Kolovos, D.S., Rose, L.M., Matragkas, N. and Williams, J.R., 2013. **Model management in the wild.** In Generative and Transformational Techniques in Software Engineering IV (pp. 197-218). Springer, Berlin, Heidelberg.
-	
+
 * Taromirad, M., Matragkas, N.D. and Paige, R.F., 2013. **Towards a Multi-Domain Model-Driven Traceability Approach.** In MPM@ MoDELS (pp. 27-36).
 
 * Williams, J.R., Zolotas, A., Matragkas, N.D., Rose, L.M., Kolovos, D.S., Paige, R.F. and Polack, F.A., 2013. **What do metamodels really look like?.** Eessmod@ Models, 1078, pp.55-60.
@@ -100,15 +113,15 @@ In 2010 my surname changed from _Drivalos_ to _Matragkas_. In the following list
 
 * Rose, L.M., Matragkas, N., Kolovos, D.S. and Paige, R.F., 2012, June. **A feature model for model-to-text transformation languages.** In Proceedings of the 4th International Workshop on Modeling in Software Engineering (pp. 57-63). IEEE Press.
 
-## 2011 ## 
+## 2011 ##
 
 * Paige, R.F., Drivalos, N., Kolovos, D.S., Fernandes, K.J., Power, C., Olsen, G.K. and Zschaler, S., 2011. **Rigorous identification and encoding of trace-links in model-driven engineering.** Software & Systems Modeling, 10(4), pp.469-487.
-	
+
 * Gray, I., Matragkas, N., Audsley, N.C., Indrusiak, L.S., Kolovos, D. and Paige, R., 2011, March. **Model-based hardware generation and programming-the MADES approach.** In Object/Component/Service-Oriented Real-Time Distributed Computing Workshops (ISORCW), 2011 14th IEEE International Symposium on (pp. 88-96). IEEE.
 
 * Audsley, N.C., Gray, I., Indrusiak, L.S., Kolovos, D., Matragkas, N. and Paige, R., 2011. **Model-based development of embedded systems-the MADES approach.** In Proceedings of the 2nd Workshop on Model Based Engineering for Embedded Systems Design.
 
-## 2010 ## 
+## 2010 ##
 
 * Kolovos, D.S., Rose, L.M., Matragkas, N.D., Paige, R.F., Polack, F.A. and Fernandes, K.J., 2010, June. **Constructing and navigating non-invasive model decorations.** In International Conference on Theory and Practice of Model Transformations (pp. 138-152). Springer, Berlin, Heidelberg.
 
@@ -116,7 +129,7 @@ In 2010 my surname changed from _Drivalos_ to _Matragkas_. In the following list
 
 * Drivalos Matragkas, N., Kolovos, D.S., Paige, R.F. and Fernandes, K.J., 2010, June. ** A state-based approach to traceability maintenance.** In Proceedings of the 6th ECMFA Traceability Workshop (pp. 23-30). ACM.
 
-## 2009 ## 
+## 2009 ##
 
 * Zschaler, S., Kolovos, D.S., Drivalos, N., Paige, R.F. and Rashid, A., 2009, October. **Domain-specific metamodelling languages for software language engineering.** In International Conference on Software Language Engineering (pp. 334-353). Springer, Berlin, Heidelberg.
 
@@ -129,4 +142,3 @@ In 2010 my surname changed from _Drivalos_ to _Matragkas_. In the following list
 * Drivalos, N., Paige, R.F., Fernandes, K.J. and Kolovos, D.S., 2008, June. **Towards rigorously defined model-to-model traceability.** In ECMDA Traceability Workshop (ECMDA-TW) (pp. 17-26).
 
 * Kolovos, D.S., Drivalos, N., Paige, R.F. and Polack, F.A., 2008. **Seamless Navigation of Heterogeneous EMF models in Epsilon.** In Eclipse Modeling Symposium, Eclipse Summit.
-					
